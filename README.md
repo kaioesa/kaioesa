@@ -1,7 +1,7 @@
 ### Hey, i'm Kaio (Kyle)
 
 - 🖥️ I’m currently working with Typescript and Angular ~~ Atualmente estou trabalhando com Angular e Typescript
-- 🌱 I’m currently learning Angular and NodeJS ~~ Atualmente estou estudando Angular e NodeJS
+- 🌱 I’m currently evolving my knowledge in software architecture ~~ Atualmente estou evoluindo meu conhecimento em arquitetura de software
 - 🤖 Pronouns: He/Him ~~ Ele/Dele
 - 📫 How to reach me ~~ Como me encontrar: 
   - <a href="https://www.linkedin.com/in/kaio-eduardo/">Linkedin</a>
