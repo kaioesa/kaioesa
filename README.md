@@ -1,6 +1,6 @@
 ### Hey, i'm Kaio (Kyle)
 
-- 🖥️ I’m currently working with Typescript and Angular ~~ Atualmente estou trabalhando com Angular e Typescript
+- 🖥️ I’m currently working with  Angular, React and Typescript ~~ Atualmente estou trabalhando com React, Angular e Typescript
 - 🌱 I’m currently evolving my knowledge in software architecture ~~ Atualmente estou evoluindo meu conhecimento em arquitetura de software
 - 🤖 Pronouns: He/Him ~~ Ele/Dele
 - 📫 How to reach me ~~ Como me encontrar: 
