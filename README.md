@@ -1,6 +1,6 @@
 ### Hey, i'm Kaio (Kyle)
 
-- 🖥️ I’m currently working with Node, NestJS and Typescript ~~ Atualmente estou trabalhando com Node, NestJS e Typescript
+- 🖥️ I’m currently working with Node, NestJS, Java and Springboot ~~ Atualmente estou trabalhando com Node, NestJS, Java e Springboot
 - 🌱 I’m currently evolving my knowledge in software architecture ~~ Atualmente estou evoluindo meu conhecimento em arquitetura de software
 - 📫 How to reach me ~~ Como me encontrar: 
   - <a href="https://www.linkedin.com/in/kaio-eduardo/">Linkedin</a>
