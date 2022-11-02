@@ -4,7 +4,6 @@
 - 🌱 I’m currently evolving my knowledge in software architecture ~~ Atualmente estou evoluindo meu conhecimento em arquitetura de software
 - 📫 How to reach me ~~ Como me encontrar: 
   - <a href="https://www.linkedin.com/in/kaio-eduardo/">Linkedin</a>
-  - @kaioesa in Telegram
 
 ##
 
