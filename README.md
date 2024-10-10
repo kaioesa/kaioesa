@@ -1,9 +1,8 @@
 ### Hey, i'm Kaio (Kyle)
 
-- 🖥️ I’m currently working with .NET, Java e Typescript ~~ Atualmente estou trabalhando com .NET, Java e Typescript
-- 🌱 I’m currently evolving my knowledge in software architecture ~~ Atualmente estou evoluindo meu conhecimento em arquitetura de software
-- 📫 How to reach me ~~ Como me encontrar: 
-  - <a href="https://www.linkedin.com/in/kaio-eduardo/">Linkedin</a>
+- 🖥️ I've been working with software engineering for about 4 years, mainly with back-end development
+- 📫 How to reach me 
+- <a href="https://www.linkedin.com/in/kaio-eduardo/">Linkedin</a>
 
 ##
 
